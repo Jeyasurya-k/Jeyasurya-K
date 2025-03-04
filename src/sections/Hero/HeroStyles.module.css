@@ -91,6 +91,10 @@
     max-width: 350px;
     width: 350px;
   }
+  .colorMode {
+    top: 0.5px;
+    right: 0.5px;
+  }
 }
 
 @media (width >= 1400px) {
