@@ -1,6 +1,6 @@
 import styles from "./HeroStyles.module.css";
 import HeroImg from "../../assets/hero-img.png";
-import cv from "../../assets/JEYASURYA K - FULL STACK DEVELOPER.pdf";
+import cv from "../../assets/jeyasurya-k Resume.pdf";
 import { useTheme } from "../../common/ThemeContext";
 import sun from "../../assets/sun.svg";
 import moon from "../../assets/moon.svg";
